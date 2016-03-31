@@ -33,7 +33,7 @@ public class CountController extends Controller {
     }
 
      public Result hello() {
-        return ok("welcome to mis");
+        return ok("welcome to EGY");
     }
 
 
