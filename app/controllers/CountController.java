@@ -31,5 +31,8 @@ public class CountController extends Controller {
     public Result count() {
         return ok(Integer.toString(counter.nextCount()));
     }
+ public Result hello() {
+        return ok("hello MIS");
+    }
 
 }
