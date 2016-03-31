@@ -1,0 +1,4 @@
+./.sbtserver
+/.sbtserver
+/.sbtserver.lock
+/sbt-ui.sbt

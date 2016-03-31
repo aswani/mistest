@@ -32,4 +32,9 @@ public class CountController extends Controller {
         return ok(Integer.toString(counter.nextCount()));
     }
 
+     public Result hello() {
+        return ok("welcome to mis");
+    }
+
+
 }
